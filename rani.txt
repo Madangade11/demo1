@@ -1,0 +1,3 @@
+public rani class {
+
+public main void(StringArg){
